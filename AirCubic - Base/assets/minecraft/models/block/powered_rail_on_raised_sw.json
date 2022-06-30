@@ -3,7 +3,7 @@
 	"textures": {
 		"6": "block/ladder",
 		"7": "block/powered_rail_on",
-		"particle": "block/powered_rail-on",
+		"particle": "block/powered_rail_on",
 		"ladder": "block/ladder",
 		"rail": "block/rail"
 	},

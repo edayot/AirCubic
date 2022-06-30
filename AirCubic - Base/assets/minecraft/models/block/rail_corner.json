@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/rail_corner",
-		"1": "block/rail_corner_wood",
+		"1": "block/rail_corner",
 		"particle": "block/rail_corner"
 	},
 	"elements": [
