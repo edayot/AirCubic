@@ -39,5 +39,6 @@
 	"enchantment.minecraft.multishot": "Multishot",
 	"enchantment.minecraft.quick_charge": "Quick Charge",
 	"enchantment.minecraft.piercing": "Piercing",
-	"gui.toTitle": "$lRAGEQUIT"
+	"gui.toTitle": "$lRAGEQUIT",
+	"container.brewing":"\u00a7f\ueff1\u00a7r              Brewing Stand              \u00a7f\ueff2"
 }
